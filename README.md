@@ -1,12 +1,11 @@
-
-## i18n-excel-to-json
+## excel-to-json-iternational
 A tool to transform excel file to json for i18n excel data or other similar usage.
 
 ```bash
 # install
-npm install -g i18n-excel-to-json
+npm install -g excel-to-json-iternational
 # run
-i18n-excel-to-json i18n.xlsx
+excel-to-json-iternational i18n.xlsx
 ```
 It will generate a json file based on your input file name. For example, run 'i18n.xlxs' will generate 'i18n.json' file
   
