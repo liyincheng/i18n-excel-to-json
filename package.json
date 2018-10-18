@@ -8,6 +8,10 @@
   },
   "author": "yincheng <liyincheng101@163.com>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liyincheng/i18n-excel-to-json/issues"
+  },
+  "homepage": "https://github.com/liyincheng/i18n-excel-to-json",
   "dependencies": {
     "read-excel-file": "^2.0.5"
   }
