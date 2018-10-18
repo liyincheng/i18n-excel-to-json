@@ -1,11 +1,12 @@
 {
   "name": "excel-to-json-iternational",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.3",
+  "description": "A tool to transform excel to json file for i18n data or other",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {"excel-to-json-iternational": "index.js"},
   "author": "yincheng <liyincheng101@163.com>",
   "license": "MIT",
   "bugs": {

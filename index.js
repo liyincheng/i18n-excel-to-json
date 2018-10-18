@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 
 /*
  * 输入文件：
