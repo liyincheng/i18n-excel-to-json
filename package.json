@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "bin": {"excel-to-json-iternational": "index.js"},
+  "bin": {
+    "excel-to-json-iternational": "index.js"
+  },
   "author": "yincheng <liyincheng101@163.com>",
   "license": "MIT",
   "bugs": {
@@ -14,6 +16,7 @@
   },
   "homepage": "https://github.com/liyincheng/i18n-excel-to-json",
   "dependencies": {
+    "csvtojson": "^2.0.8",
     "read-excel-file": "^2.0.5"
   }
 }
